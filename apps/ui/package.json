@@ -111,7 +111,7 @@
     "@vue/test-utils": "^2.4.5",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.57.0",
-    "happy-dom": "^14.12.3",
+    "happy-dom": "^18.0.1",
     "histoire": "^0.17.9",
     "husky": "^8.0.3",
     "postcss": "^8.4.30",
@@ -122,8 +122,8 @@
     "typescript": "^5.5.4",
     "unplugin-icons": "^0.17.0",
     "unplugin-vue-components": "^0.25.2",
-    "vite": "^5.0.12",
-    "vitest": "^1.2.2",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.4",
     "vue-tsc": "^2.1.6"
   }
 }

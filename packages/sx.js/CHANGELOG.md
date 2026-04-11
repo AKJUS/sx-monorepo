@@ -1,5 +1,11 @@
 # @snapshot-labs/sx
 
+## 0.1.11
+
+### Patch Changes
+
+- 0da66d6: Add BNB network support
+
 ## 0.1.10
 
 ### Patch Changes

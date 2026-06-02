@@ -69,7 +69,7 @@
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/test-utils": "^2.4.5",
     "autoprefixer": "^10.4.16",
-    "happy-dom": "^14.12.3",
+    "happy-dom": "^20.9.0",
     "postcss": "^8.4.30",
     "rollup-plugin-visualizer": "^5.9.2",
     "sass": "^1.68.0",
@@ -78,7 +78,7 @@
     "unplugin-icons": "^0.17.0",
     "unplugin-vue-components": "^0.25.2",
     "vite": "^8.0.0",
-    "vitest": "^3.2.4",
+    "vitest": "^4.1.8",
     "vue-tsc": "^3.0.3"
   }
 }

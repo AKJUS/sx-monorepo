@@ -32,7 +32,7 @@
     "pino": "^9.9.0",
     "redis": "^4.6.7",
     "typescript": "^5.8.3",
-    "vitest": "^3.1.1",
+    "vitest": "^4.1.8",
     "zod": "^3.24.2"
   },
   "devDependencies": {

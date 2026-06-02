@@ -63,7 +63,7 @@
     "@types/node": "^22.6.0",
     "@types/randombytes": "^2.0.3",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.8"
   },
   "files": [
     "dist/**/*",
